@@ -131,10 +131,5 @@ export const data = [
         age: 29,
         contact: "william@example.com"
     },
-    {
-        name: "Hannah",
-        lastname: "Morris",
-        age: 28,
-        contact: "hannah@example.com"
-    }
+
 ]
